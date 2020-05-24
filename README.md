@@ -2,8 +2,8 @@
 Notes on building rtl-sdr on MacOSX
 
 ## Device used
-You can use a number of compatible devices. The one I used was: \
-![Image of Nooelec NESDR SMArTee v2 device](https://archive.org/download/hamradio_utils/Nooelec%20NESDR%20SMArTee%20v2.jpg) \
+You can use a number of compatible devices. The one I used was:
+![Image of Nooelec NESDR SMArTee v2 device](https://archive.org/download/hamradio_utils/Nooelec%20NESDR%20SMArTee%20v2.jpg)
 ```Nooelec NESDR SMArTee v2 (Generic RTL2832U``` \
 For more info and compatible devices you can check https://osmocom.org/projects/rtl-sdr/wiki/Rtl-sdr
 http://sdr.osmocom.org/trac/wiki/rtl-sdr
